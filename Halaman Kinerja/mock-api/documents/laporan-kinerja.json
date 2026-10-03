@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6,
+    "category": "laporan-kinerja",
+    "title": "Laporan Kinerja Tahun 2025",
+    "year": 2025,
+    "period_start": null,
+    "period_end": null,
+    "group_label": null,
+    "description": "Contoh ringkasan capaian dan evaluasi kinerja tahun 2025.",
+    "file_size": 2359296,
+    "page_count": 36,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-panjang.pdf"
+    }
+  },
+  {
+    "id": 7,
+    "category": "laporan-kinerja",
+    "title": "Laporan Kinerja Tahun 2024",
+    "year": 2024,
+    "period_start": null,
+    "period_end": null,
+    "group_label": null,
+    "description": "Contoh laporan capaian kinerja tahun 2024.",
+    "file_size": 921600,
+    "page_count": 18,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "gdrive",
+      "embed_url": "https://drive.google.com/file/d/CONTOH_FILE_ID/preview"
+    }
+  },
+  {
+    "id": 8,
+    "category": "laporan-kinerja",
+    "title": "Laporan Kinerja Tahun 2023",
+    "year": 2023,
+    "period_start": null,
+    "period_end": null,
+    "group_label": null,
+    "description": "Contoh laporan capaian kinerja tahun 2023.",
+    "file_size": 5242880,
+    "page_count": 24,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-besar.pdf"
+    }
+  },
+  {
+    "id": 9,
+    "category": "laporan-kinerja",
+    "title": "Laporan Kinerja Tahun 2022",
+    "year": 2022,
+    "period_start": null,
+    "period_end": null,
+    "group_label": null,
+    "description": "Contoh laporan capaian kinerja tahun 2022.",
+    "file_size": 368640,
+    "page_count": 5,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-pendek.pdf"
+    }
+  }
+]

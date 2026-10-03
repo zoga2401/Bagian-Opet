@@ -1,0 +1,56 @@
+[
+  {
+    "id": 10,
+    "category": "dipa",
+    "title": "DIPA Tahun 2025",
+    "year": 2025,
+    "period_start": null,
+    "period_end": null,
+    "group_label": null,
+    "description": "Contoh Daftar Isian Pelaksanaan Anggaran tahun 2025.",
+    "file_size": 2359296,
+    "page_count": 36,
+    "allow_download": true,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-panjang.pdf"
+    }
+  },
+  {
+    "id": 11,
+    "category": "dipa",
+    "title": "DIPA Tahun 2024",
+    "year": 2024,
+    "period_start": null,
+    "period_end": null,
+    "group_label": null,
+    "description": "Contoh Daftar Isian Pelaksanaan Anggaran tahun 2024.",
+    "file_size": 368640,
+    "page_count": 5,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-pendek.pdf"
+    }
+  },
+  {
+    "id": 12,
+    "category": "dipa",
+    "title": "DIPA Tahun 2023",
+    "year": 2023,
+    "period_start": null,
+    "period_end": null,
+    "group_label": null,
+    "description": "Contoh Daftar Isian Pelaksanaan Anggaran tahun 2023.",
+    "file_size": 5242880,
+    "page_count": 24,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-besar.pdf"
+    }
+  }
+]

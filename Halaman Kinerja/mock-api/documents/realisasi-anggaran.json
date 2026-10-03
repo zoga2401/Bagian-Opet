@@ -1,0 +1,56 @@
+[
+  {
+    "id": 13,
+    "category": "realisasi-anggaran",
+    "title": "Realisasi Anggaran BOS Tahun 2026",
+    "year": 2026,
+    "period_start": null,
+    "period_end": null,
+    "group_label": "BOS",
+    "description": "Contoh laporan realisasi dana BOS tahun 2026.",
+    "file_size": 368640,
+    "page_count": 5,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-pendek.pdf"
+    }
+  },
+  {
+    "id": 14,
+    "category": "realisasi-anggaran",
+    "title": "Realisasi Anggaran BOS Tahun 2025",
+    "year": 2025,
+    "period_start": null,
+    "period_end": null,
+    "group_label": "BOS",
+    "description": "Contoh laporan realisasi dana BOS tahun 2025.",
+    "file_size": 2359296,
+    "page_count": 36,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-panjang.pdf"
+    }
+  },
+  {
+    "id": 15,
+    "category": "realisasi-anggaran",
+    "title": "Realisasi Anggaran Non-BOS Tahun 2025",
+    "year": 2025,
+    "period_start": null,
+    "period_end": null,
+    "group_label": "Non-BOS",
+    "description": "Contoh laporan realisasi sumber anggaran non-BOS tahun 2025.",
+    "file_size": 5242880,
+    "page_count": 24,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-besar.pdf"
+    }
+  }
+]

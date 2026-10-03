@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "perjanjian-kinerja",
+    "name": "Perjanjian Kinerja",
+    "label": "Perencanaan",
+    "description": "Komitmen dan target kinerja tahunan madrasah.",
+    "document_count": 5,
+    "latest_year": 2025
+  },
+  {
+    "slug": "laporan-kinerja",
+    "name": "Laporan Kinerja",
+    "label": "Pelaporan",
+    "description": "Laporan capaian, evaluasi, dan tindak lanjut kinerja madrasah.",
+    "document_count": 4,
+    "latest_year": 2025
+  },
+  {
+    "slug": "dipa",
+    "name": "DIPA",
+    "label": "Anggaran",
+    "description": "Daftar Isian Pelaksanaan Anggaran madrasah.",
+    "document_count": 3,
+    "latest_year": 2025
+  },
+  {
+    "slug": "realisasi-anggaran",
+    "name": "Realisasi Anggaran",
+    "label": "Akuntabilitas",
+    "description": "Ringkasan realisasi anggaran berdasarkan kelompok sumber dana.",
+    "document_count": 3,
+    "latest_year": 2026
+  },
+  {
+    "slug": "renstra",
+    "name": "Rencana Strategis (Renstra)",
+    "label": "Arah strategis",
+    "description": "Dokumen rencana strategis madrasah berdasarkan periode perencanaan.",
+    "document_count": 2,
+    "latest_year": null
+  },
+  {
+    "slug": "zona-integritas",
+    "name": "ZI (Zona Integritas)",
+    "label": "Budaya integritas",
+    "description": "Dokumen pembangunan dan evaluasi Zona Integritas madrasah.",
+    "document_count": 0,
+    "latest_year": null
+  }
+]

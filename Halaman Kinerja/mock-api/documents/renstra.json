@@ -1,0 +1,38 @@
+[
+  {
+    "id": 16,
+    "category": "renstra",
+    "title": "Rencana Strategis Madrasah Periode 2025–2029",
+    "year": null,
+    "period_start": 2025,
+    "period_end": 2029,
+    "group_label": null,
+    "description": "Contoh arah strategis madrasah untuk periode 2025–2029.",
+    "file_size": 2359296,
+    "page_count": 36,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-panjang.pdf"
+    }
+  },
+  {
+    "id": 17,
+    "category": "renstra",
+    "title": "Rencana Strategis Madrasah Periode 2020–2024",
+    "year": null,
+    "period_start": 2020,
+    "period_end": 2024,
+    "group_label": null,
+    "description": "Contoh arah strategis madrasah untuk periode 2020–2024.",
+    "file_size": 368640,
+    "page_count": 5,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-pendek.pdf"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "category": "perjanjian-kinerja",
+    "title": "Perjanjian Kinerja Tahun 2025",
+    "year": 2025,
+    "period_start": null,
+    "period_end": null,
+    "group_label": null,
+    "description": "Contoh komitmen dan target kinerja madrasah tahun 2025.",
+    "file_size": 368640,
+    "page_count": 5,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-pendek.pdf"
+    }
+  },
+  {
+    "id": 2,
+    "category": "perjanjian-kinerja",
+    "title": "Perjanjian Kinerja Tahun 2024",
+    "year": 2024,
+    "period_start": null,
+    "period_end": null,
+    "group_label": null,
+    "description": "Contoh komitmen dan target kinerja madrasah tahun 2024.",
+    "file_size": 2359296,
+    "page_count": 36,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-panjang.pdf"
+    }
+  },
+  {
+    "id": 3,
+    "category": "perjanjian-kinerja",
+    "title": "Perjanjian Kinerja Tahun 2023",
+    "year": 2023,
+    "period_start": null,
+    "period_end": null,
+    "group_label": null,
+    "description": "Contoh komitmen dan target kinerja madrasah tahun 2023.",
+    "file_size": 5242880,
+    "page_count": 24,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-besar.pdf"
+    }
+  },
+  {
+    "id": 4,
+    "category": "perjanjian-kinerja",
+    "title": "Perjanjian Kinerja Tahun 2022",
+    "year": 2022,
+    "period_start": null,
+    "period_end": null,
+    "group_label": null,
+    "description": "Contoh komitmen dan target kinerja madrasah tahun 2022.",
+    "file_size": 368640,
+    "page_count": 5,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-pendek.pdf"
+    }
+  },
+  {
+    "id": 5,
+    "category": "perjanjian-kinerja",
+    "title": "Perjanjian Kinerja Tahun 2021",
+    "year": 2021,
+    "period_start": null,
+    "period_end": null,
+    "group_label": null,
+    "description": "Contoh komitmen dan target kinerja madrasah tahun 2021.",
+    "file_size": 2359296,
+    "page_count": 36,
+    "allow_download": false,
+    "is_sample": true,
+    "preview": {
+      "type": "pdf",
+      "url": "./mock-api/files/contoh-panjang.pdf"
+    }
+  }
+]
